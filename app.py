@@ -1,10 +1,6 @@
 
 import pandas as pd
 import streamlit as st
-import plotly.express as px
-from PIL import Image
-import base64
-
 import streamlit.components.v1 as components
 
 st.set_page_config(layout='wide')
